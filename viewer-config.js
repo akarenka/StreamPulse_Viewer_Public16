@@ -1,0 +1,5 @@
+window.STREAMPULSE_GOOGLE_VIEWER_CONFIG = {
+  clientId: ""
+};
+
+window.STREAMPULSE_FIREBASE_CONFIG = null;
