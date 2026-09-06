@@ -1,0 +1,15 @@
+{
+  "name": "StreamPulse Live",
+  "short_name": "StreamPulse",
+  "description": "直播房、聊天室與創作者互動平台",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
